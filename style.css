@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('gg.jpeg'); /* Replace 'background.jpg' with the path to your image */ background-size: cover; /* This ensures the image covers the entire background */ background-repeat: no-repeat;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #0066cc;
+}
+
+h2 {
+    color: #009933;
+}
+
+p {
+    font-size: 30px;
+    font-style: italic;
+    
+    line-height: 1.6;
+    color: #ffffff;
+}
